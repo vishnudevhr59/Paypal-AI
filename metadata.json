@@ -1,0 +1,6 @@
+{
+  "name": "Payapp - AI Payment Companion",
+  "description": "Intelligent AI-powered payment companion for the PayPal AI Hackathon: automates bill parsing, smart expense splitting, subscription fatigue audits, and PayPal Sandbox Checkout execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
